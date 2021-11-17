@@ -124,3 +124,4 @@ DELETE : `/users/user_id/events/event_id`
 > [![](https://avatars.githubusercontent.com/u/66039997?s=50&v=4)](https://github.com/Tutanabg)
 > [![](https://avatars.githubusercontent.com/u/60087485?s=50&v=4)](https://github.com/michaelthan24)
 > [![](https://avatars.githubusercontent.com/u/32628434?s=50&v=4)](https://github.com/ThomasLatham)
+> [![](https://avatars.githubusercontent.com/u/91092523?v=4&s=50)](https://github.com/shamimRevature)
