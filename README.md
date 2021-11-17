@@ -120,6 +120,6 @@ DELETE : `/users/user_id/events/event_id`
 
 ## Contributors
 
-> [![](https://avatars.githubusercontent.com/u/93598022?s=30&u=286e38d31512e4b5a6db46263ec2db7b7f17c01b&v=4)](https://github.com/HuangyingruiWang)
-> [![](https://avatars.githubusercontent.com/u/66039997?s=30&v=4)](https://github.com/Tutanabg)
+> [![](https://avatars.githubusercontent.com/u/93598022?s=50&u=286e38d31512e4b5a6db46263ec2db7b7f17c01b&v=4)](https://github.com/HuangyingruiWang)
+> [![](https://avatars.githubusercontent.com/u/66039997?s=50&v=4)](https://github.com/Tutanabg)
 > [![](https://avatars.githubusercontent.com/u/60087485?s=50&v=4)](https://github.com/michaelthan24)
