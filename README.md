@@ -73,7 +73,7 @@ ng serve
 2. Run Sql on DBeaver.
 3. Run backend Application on IntelliJ, and frontend application on VSCode.
 4. Go to http://localhost:4200/ on your browser and start to log in.
-
+5. You can find a user stories file at frontend/UserStories.rtf
 ## Data Entities
 
 Name  | Description
