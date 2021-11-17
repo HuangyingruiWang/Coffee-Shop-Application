@@ -18,7 +18,7 @@ Backend Test
 * JUnit, Mockito, Postman
 
 DataBase
-* PostgreSQL
+* PostgreSQL <br />
 Other Tools
 * IntelliJ, VSCode, DBeaver, GitLab, Trello
 
