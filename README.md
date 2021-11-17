@@ -122,4 +122,4 @@ DELETE : `/users/user_id/events/event_id`
 
 ## Contributors
 
-> [![](https://avatars.githubusercontent.com/u/93598022?s=30&u=286e38d31512e4b5a6db46263ec2db7b7f17c01b&v=4)](https://github.com/remarkablemark)
+> [![](https://avatars.githubusercontent.com/u/93598022?s=30&u=286e38d31512e4b5a6db46263ec2db7b7f17c01b&v=4)](https://github.com/HuangyingruiWang)
