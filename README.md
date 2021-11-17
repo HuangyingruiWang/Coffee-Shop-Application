@@ -70,6 +70,7 @@ ng serve
    * Under System variables, create new variables with the correct variable names from above, and variable values as your database-connection information.
    * You may also need to add those system environment variables into IntelliJ environment variables if you can not run the Java Application.
     * In your IntelliJ, under Run tag ->  Edit Configuration -> add those enviroment variables.
+2. Run Sql on DBeaver.
 3. Run backend Application on IntelliJ, and frontend application on VSCode.
 4. Go to http://localhost:4200/ on your browser and start to log in.
 
