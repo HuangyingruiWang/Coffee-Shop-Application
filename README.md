@@ -105,7 +105,6 @@ POST : `/users`
 * Request to create a new customer account<br />
 POST : `/userAddresses`
 * Request to create a new user address for an existing customer account<br />
-
 GET : `/supervisors/user_id`
 * Request the department header information for the current login account<br />
 GET : `/heads/department_id`
