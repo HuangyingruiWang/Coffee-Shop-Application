@@ -17,9 +17,8 @@ Backend
 Backend Test
 * JUnit, Mockito, Postman
 
-DataBase
-* PostgreSQL <br />
-Other Tools
+DataBase and Other Tools
+* PostgreSQL
 * IntelliJ, VSCode, DBeaver, GitLab, Trello
 
 ## Features:
