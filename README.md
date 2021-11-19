@@ -37,7 +37,7 @@ To-Do list:
 Clone this Repository to your local computer
 
 ```
-git clone https://github.com/HuangyingruiWang/Coffee-shop-Order-Management-System.git
+git clone https://github.com/HuangyingruiWang/Coffee-Shop-Application.git
 
 ```
 
